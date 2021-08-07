@@ -1,14 +1,10 @@
 {
   "files": {
-    "main.css": "/slider/static/css/main.1c2610ab.chunk.css",
+    "main.css": "/slider/static/css/main.36b430a1.chunk.css",
     "main.js": "/slider/static/js/main.8dd8dc86.chunk.js",
-    "main.js.map": "/slider/static/js/main.8dd8dc86.chunk.js.map",
     "runtime-main.js": "/slider/static/js/runtime-main.ce400607.js",
-    "runtime-main.js.map": "/slider/static/js/runtime-main.ce400607.js.map",
     "static/js/2.d1e72368.chunk.js": "/slider/static/js/2.d1e72368.chunk.js",
-    "static/js/2.d1e72368.chunk.js.map": "/slider/static/js/2.d1e72368.chunk.js.map",
     "index.html": "/slider/index.html",
-    "static/css/main.1c2610ab.chunk.css.map": "/slider/static/css/main.1c2610ab.chunk.css.map",
     "static/js/2.d1e72368.chunk.js.LICENSE.txt": "/slider/static/js/2.d1e72368.chunk.js.LICENSE.txt",
     "static/media/chevron-left.310de47d.svg": "/slider/static/media/chevron-left.310de47d.svg",
     "static/media/chevron-right.c3ee4024.svg": "/slider/static/media/chevron-right.c3ee4024.svg",
@@ -21,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.ce400607.js",
     "static/js/2.d1e72368.chunk.js",
-    "static/css/main.1c2610ab.chunk.css",
+    "static/css/main.36b430a1.chunk.css",
     "static/js/main.8dd8dc86.chunk.js"
   ]
 }
