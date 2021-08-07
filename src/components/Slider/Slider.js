@@ -36,9 +36,7 @@ export default function Slider({data = []}) {
         }
     }
 
-    const handleDotClick = index => {
-        setSlideIndex(index);
-    }
+   
 
     return (
         <div className="slider">
@@ -63,7 +61,7 @@ export default function Slider({data = []}) {
             <div className="dots-container">
                 {Array.from({length: data.length}).map((item, index) => {
 
-                    return <div className={slideIndex === index ? "dot active" : "dot"} onClick={() => handleDotClick(index)} key = {index}></div>
+                    return <div className={slideIndex === index ? "dot active" : "dot"} onClick={() => setSlideIndex(index)} key = {index}></div>
                 })}
             </div>
         </div>
