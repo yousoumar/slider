@@ -1,8 +1,8 @@
-import imageOne from './image-one.jpg';
-import imageTwo from './image-two.jpg';
-import imageThree from './image-three.jpg';
-import imageFour from './image-four.jpg';
-import imageFive from './image-five.jpg';
+import imageOne from './assets/image-one.jpg';
+import imageTwo from './assets/image-two.jpg';
+import imageThree from './assets/image-three.jpg';
+import imageFour from './assets/image-four.jpg';
+import imageFive from './assets/image-five.jpg';
 const data = [
   {
     id: 1,
